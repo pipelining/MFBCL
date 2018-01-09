@@ -88,12 +88,7 @@
 		4A42E81820048B4D00895590 /* MFBCL */ = {
 			isa = PBXGroup;
 			children = (
-				4A42E84F20048C3900895590 /* TimerCategory */,
-				4A42E84B20048C2500895590 /* FullGesture */,
-				4A42E84420048C1400895590 /* Manager */,
-				4A42E83A20048BFD00895590 /* UnicodeLog */,
-				4A42E83620048BE900895590 /* StringCategory */,
-				4A42E82F20048BC800895590 /* ColorCategory */,
+				4A42E85320048DFE00895590 /* MFBCLLib */,
 				4A42E81920048B4D00895590 /* AppDelegate.h */,
 				4A42E81A20048B4D00895590 /* AppDelegate.m */,
 				4A42E81C20048B4D00895590 /* ViewController.h */,
@@ -167,6 +162,19 @@
 				4A42E85020048C4600895590 /* NSTimer+MFWeakTimer.m */,
 			);
 			path = TimerCategory;
+			sourceTree = "<group>";
+		};
+		4A42E85320048DFE00895590 /* MFBCLLib */ = {
+			isa = PBXGroup;
+			children = (
+				4A42E84F20048C3900895590 /* TimerCategory */,
+				4A42E84B20048C2500895590 /* FullGesture */,
+				4A42E84420048C1400895590 /* Manager */,
+				4A42E83A20048BFD00895590 /* UnicodeLog */,
+				4A42E83620048BE900895590 /* StringCategory */,
+				4A42E82F20048BC800895590 /* ColorCategory */,
+			);
+			path = MFBCLLib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
